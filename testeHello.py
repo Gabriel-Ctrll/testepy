@@ -1,0 +1,3 @@
+mensagem = "HelloWord"
+
+print(mensagem)
